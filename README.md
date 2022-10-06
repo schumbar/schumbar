@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Shawn Chumbar (@schumbar)
+- 👨🏾‍💻 Work as a **Software Configuration Management Engineer II** at Exact Sciences Corporation
 - 👀 I’m interested in DevOps methodology, software engineering principles, and anything/everything python related.
 - 🌱 I’m currently learning docker, terraform, and kubernetes!
 - 💞️ I’m looking to collaborate on any projects related to either DevOps, Data Science, Machine Learning, or Software Engineering.
