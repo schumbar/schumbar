@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Shawn Chumbar (@schumbar)
-- 👨🏾‍💻 I work as a **Software Development Engineer ** at Nokia
+- 👨🏾‍💻 I work as a **Software Development Engineer** at Nokia
 - 👀 I’m interested in DevOps methodology, software engineering principles, and anything/everything python related.
 - 🌱 I’m currently learning docker, terraform, kubernetes, and golang!
 - 💞️ I’m looking to collaborate on any projects related to either DevOps, Data Science, Machine Learning, or Software Engineering.
