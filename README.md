@@ -1,10 +1,15 @@
+<!---
+schumbar/schumbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ## Shawn Chumbar
 Location: Fremont, CA   
 Email: [shawnchumbar@gmail.com](mailto:shawnchumbar@gmail.com)   
 LinkedIn: [https://www.linkedin.com/in/schumbar/](https://www.linkedin.com/in/schumbar/)    
 
 ## About Me
-I am a backend and DevOps engineer that specializes in scalable, production-grade systems.
+I am a backend and DevOps engineer that specializes in scalable, production-grade systems.    
 **I am Actively seeking Software Engineering, Backend, and DevOps opportunities.**
 
 ## Work Experience
@@ -39,13 +44,5 @@ I am a backend and DevOps engineer that specializes in scalable, production-grad
 **Concepts:** Microservices, Distributed Systems, CI/CD, Cloud-Native Architecture    
 
 ## Education
-**Master of Science in Software Engineering**
-San Jose State University
-Specialization: Data Science
-**Bachelor of Science in Computer Science**
-University of California, Santa Cruz
-
-<!---
-schumbar/schumbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Master of Science in Software Engineering** | San Jose State University | Specialization: Data Science    
+**Bachelor of Science in Computer Science** | University of California, Santa Cruz    
