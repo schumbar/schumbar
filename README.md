@@ -1,9 +1,14 @@
-- 👋 Hi, my name is Shawn Chumbar (@schumbar)
-- 👨🏾‍💻 I work as a **Software Development Engineer** at Nokia
-- 👀 I’m interested in DevOps methodology, software engineering principles, and anything/everything python related.
-- 🌱 I’m currently learning docker, terraform, kubernetes, and golang!
-- 💞️ I’m looking to collaborate on any projects related to either DevOps, Data Science, Machine Learning, or Software Engineering.
-- 📫 You can reach me via email at schumbar@ucsc.edu or by messaging me on [LinkedIn](https://www.linkedin.com/in/schumbar/)
+**Shawn Chumbar (@schumbar)**
+Ex-Software Development Engineer @ Nokia
+
+* Backend & DevOps engineer building scalable, production-grade systems
+* Experienced in Python, Golang, Docker, Kubernetes, and Terraform
+* Strong focus on system reliability, performance, and cloud-native architecture
+* Actively seeking Software Engineering, Backend, and DevOps opportunities
+
+**Contact**
+Email: [shawnchumbar@gmail.com](mailto:shawnchumbar@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/schumbar/](https://www.linkedin.com/in/schumbar/)
 
 <!---
 schumbar/schumbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
