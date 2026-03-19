@@ -41,11 +41,11 @@ University of California, Santa Cruz
 
 ## Skills
 
-**Languages:** Python, Golang, C#, Java, SQL
-**DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, Azure DevOps
-**Tools:** Git, Postman, Linux (Ubuntu), MacOS
-**Databases:** MongoDB, SQLite, Neo4j
-**Concepts:** Microservices, Distributed Systems, CI/CD, Cloud-Native Architecture
+**Languages:** Python, Golang, C#, Java, SQL.    
+**DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, Azure DevOps    
+**Tools:** Git, Postman, Linux (Ubuntu), MacOS    
+**Databases:** MongoDB, SQLite, Neo4j    
+**Concepts:** Microservices, Distributed Systems, CI/CD, Cloud-Native Architecture    
 
 <!---
 schumbar/schumbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
