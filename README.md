@@ -1,14 +1,13 @@
 ## Shawn Chumbar
-📍 Location: Fremont, CA   
-📧 Email: [shawnchumbar@gmail.com](mailto:shawnchumbar@gmail.com)   
-🌐 LinkedIn: [https://www.linkedin.com/in/schumbar/](https://www.linkedin.com/in/schumbar/)    
+Location: Fremont, CA   
+Email: [shawnchumbar@gmail.com](mailto:shawnchumbar@gmail.com)   
+LinkedIn: [https://www.linkedin.com/in/schumbar/](https://www.linkedin.com/in/schumbar/)    
 
-A backend & DevOps engineer focused on scalable, production-grade systems.   
-Actively seeking Software Engineering, Backend, and DevOps opportunities.
+## About Me
+I am a backend and DevOps engineer that specializes in scalable, production-grade systems.
+**I am Actively seeking Software Engineering, Backend, and DevOps opportunities.**
 
-
-
-## 🎓 Education
+## Education
 
 **Master of Science in Software Engineering**
 San Jose State University
@@ -17,7 +16,7 @@ Specialization: Data Science
 **Bachelor of Science in Computer Science**
 University of California, Santa Cruz
 
-## 💼 Work Experience
+## Work Experience
 
 **Software Engineer, Nokia Networks**
 2022 – 2025 | Sunnyvale, CA
@@ -40,7 +39,7 @@ University of California, Santa Cruz
 * Managed multi-environment deployments (dev/test/prod) using Azure DevOps
 * Enabled non-technical teams to deploy software via streamlined processes 
 
-## 🛠️ Skills
+## Skills
 
 **Languages:** Python, Golang, C#, Java, SQL
 **DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, Azure DevOps
