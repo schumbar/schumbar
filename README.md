@@ -7,15 +7,6 @@ LinkedIn: [https://www.linkedin.com/in/schumbar/](https://www.linkedin.com/in/sc
 I am a backend and DevOps engineer that specializes in scalable, production-grade systems.
 **I am Actively seeking Software Engineering, Backend, and DevOps opportunities.**
 
-## Education
-
-**Master of Science in Software Engineering**
-San Jose State University
-Specialization: Data Science
-
-**Bachelor of Science in Computer Science**
-University of California, Santa Cruz
-
 ## Work Experience
 
 **Software Engineer, Nokia Networks**
@@ -46,6 +37,13 @@ University of California, Santa Cruz
 **Tools:** Git, Postman, Linux (Ubuntu), MacOS    
 **Databases:** MongoDB, SQLite, Neo4j    
 **Concepts:** Microservices, Distributed Systems, CI/CD, Cloud-Native Architecture    
+
+## Education
+**Master of Science in Software Engineering**
+San Jose State University
+Specialization: Data Science
+**Bachelor of Science in Computer Science**
+University of California, Santa Cruz
 
 <!---
 schumbar/schumbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
